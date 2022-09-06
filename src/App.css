@@ -1,0 +1,46 @@
+.App-header {
+  background-color: #393b3d;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  
+}
+
+.hotel {
+  color: darkmagenta;
+  text-align: center;
+}
+
+.rooms {
+  display: flex;
+  flex-direction:column;
+  margin-left:5px;
+  padding:15px;
+}  
+
+.head {
+  color: wheat;
+  font-size:25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+  color: darkgoldenrod;
+  font-size:35px;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+.span {
+  color:darkcyan;
+}
+.span1
+{
+  color: wheat;
+  font-size:12px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
